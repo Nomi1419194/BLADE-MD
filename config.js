@@ -10,17 +10,17 @@ global.email = 'maxdavid126@gmail.com'
 global.github = 'https://github.com/Bladeh4x/BLADE-MD'
 global.location = 'Lahore pakistan'
 global.gurl = 'https://instagram.com/alex_david/' // add your username
-global.sudo = process.env.SUDO || "2348059540212"
-global.devs = '2348059540212';
-global.website = 'https://github.com/Bladeh4x/BLADE-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3f3ae4aace2d012c11509.jpg'
+global.sudo = process.env.SUDO || "923137696105"
+global.devs = '923137696105';
+global.website = 'https://github.com/Bladeh4x/BLADE-MD' //wa.me/+923137696105
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/cb794d1a706dcc6147be0.jpg'
 module.exports = {
   sessionName: process.env.SESSION_ID || "",      //Put Your Session Id Here
-  author:  process.env.PACK_AUTHER ||  'BLADE BOT',
-  packname:  process.env.PACK_NAME || 'MADE BY ALEX DAVID',
+  author:  process.env.PACK_AUTHER ||  'Mr Noman 😎',
+  packname:  process.env.PACK_NAME || 'MADE BY Mr Noman 😎',
   
-  botname:   process.env.BOT_NAME === undefined ? "BLADE-MD" : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'alexdavid' : process.env.OWNER_NAME,  
+  botname:   process.env.BOT_NAME === undefined ? "Mr Noman 😎" : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? 'Mr Noman 😎' : process.env.OWNER_NAME,  
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD,
@@ -37,7 +37,7 @@ module.exports = {
   BRANCH: 'main', 
   ALIVE_MESSAGE:  process.env.ALIVE_MESSAGE === undefined ? '' : process.env.ALIVE_MESSAGE,
   autobio:  process.env.AUTO_BIO === undefined ? false : process.env.AUTO_BIO,
-  caption :process.env.CAPTION || "\t*•ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʙʟᴀᴅᴇ-²²¹-ᴍᴅ•* ",   //*『sᴜʙsᴄʀɪʙᴇ • ʙʟᴀᴅᴇ ᴛᴇᴄʜ』*\n youtube.com/@blade444"),	
+  caption :process.env.CAPTION || "\t*•ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mr Noman 😎•* ",   //*『sᴜʙsᴄʀɪʙᴇ • TECHNICAL ARSLAN 』*\n youtube.com/@TechnicalHackersarslan"),	
   OPENAI_API_KEY:  process.env.OPENAI_API_KEY === undefined ? false : process.env.OPENAI_API_KEY,
   heroku:  process.env.heroku === undefined ? false : process.env.heroku,
   HEROKU: {
